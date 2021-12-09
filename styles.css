@@ -1,0 +1,40 @@
+
+
+
+body {
+    background-color: #3D2C8D;
+
+}
+
+body, th, td {
+font-family: 'Merriweather', serif; 
+}
+
+h1 {
+    color: #B85C38;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace; 
+}
+
+h2 {
+    text-align: center;
+    color:#FEC260 ;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+    
+}
+
+th {
+    color: #B85C38;
+    padding: 15px;
+
+}
+
+td {
+    text-align: center;
+    color: #1E5128;
+
+}
